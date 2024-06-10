@@ -218,29 +218,7 @@
                  "width":0,
                  "x":84.9315,
                  "y":147.945
-                }, 
-                {
-                 "height":17.8082,
-                 "id":29,
-                 "name":"window",
-                 "rotation":0,
-                 "type":"",
-                 "visible":false,
-                 "width":28.7671,
-                 "x":34.2466,
-                 "y":32.8767
-                }, 
-                {
-                 "height":26.0274,
-                 "id":31,
-                 "name":"window",
-                 "rotation":0,
-                 "type":"",
-                 "visible":false,
-                 "width":45.2055,
-                 "x":26.0274,
-                 "y":27.3973
-                }, 
+                },  
                 {
                  "height":32.8767,
                  "id":33,
